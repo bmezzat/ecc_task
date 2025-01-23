@@ -11,7 +11,6 @@ py update_db.py
 py main.py
 ```
 
-
 ## Milestones
 
 - Three tables are configured on models.py
