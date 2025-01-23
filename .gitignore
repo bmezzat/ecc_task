@@ -1,0 +1,4 @@
+app.log
+sqlite.db
+/.venv/
+.venv
