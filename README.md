@@ -11,7 +11,9 @@ py update_db.py
 py main.py
 ```
 
+
 ## Milestones
+
 - Three tables are configured on models.py
   - CC050 which contains the EOD reports 
   - CI050 which contains the SOD/Intraday reports
